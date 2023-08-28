@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/DEV-PORT/static/css/main.9b361298.css",
+    "main.js": "/DEV-PORT/static/js/main.c9d88fd4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/DEV-PORT/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tripguide.png": "/DEV-PORT/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "/DEV-PORT/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/DEV-PORT/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/DEV-PORT/static/media/jobit.755da7149642fd049273.png",
+    "static/media/certificate.jpeg": "/DEV-PORT/static/media/certificate.b3fb5c33ee7298efa7be.jpeg",
+    "static/media/logo.png": "/DEV-PORT/static/media/logo.13e7986ce90498f00140.png",
+    "static/media/github.png": "/DEV-PORT/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/web.png": "/DEV-PORT/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/twitter.png": "/DEV-PORT/static/media/twitter.6a073db0f2eeae417491.png",
+    "static/media/linkedin.png": "/DEV-PORT/static/media/linkedin.7d0ad05d633558c5d64b.png",
+    "static/media/backend.png": "/DEV-PORT/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/DEV-PORT/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/DEV-PORT/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/bootstrap.png": "/DEV-PORT/static/media/bootstrap.9016c575b3cb32b2e85c.png",
+    "static/media/insta.png": "/DEV-PORT/static/media/insta.85856611bca27a7cb332.png",
+    "static/media/starbucks.png": "/DEV-PORT/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/close.svg": "/DEV-PORT/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/menu.svg": "/DEV-PORT/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
+    "index.html": "/DEV-PORT/index.html",
+    "static/media/threejs.svg": "/DEV-PORT/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
+    "main.9b361298.css.map": "/DEV-PORT/static/css/main.9b361298.css.map",
+    "main.c9d88fd4.js.map": "/DEV-PORT/static/js/main.c9d88fd4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/DEV-PORT/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b361298.css",
+    "static/js/main.c9d88fd4.js"
+  ]
+}
