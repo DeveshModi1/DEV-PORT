@@ -4,6 +4,7 @@ import {
   creator,
   web,
   javascript,
+  food,
   typescript,
   html,
   css,
@@ -201,9 +202,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "In Progress",
+    name: "Food App",
     description:
-      "Updated Soon",
+      "Online Food Order App",
     tags: [
       {
         name: "react",
@@ -214,33 +215,33 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: food,
+    source_code_link: "https://github.com/DeveshModi1/",
   },
   {
-    name: "In Progress",
+    name: "E-commerce",
     description:
-      "Updated Soon",
+      "Dashboard of e-commerce website",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "redux",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwindcss",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: food,
+    source_code_link: "https://github.com/DeveshModi1/",
   },
   {
     name: "In Progress",
@@ -248,20 +249,20 @@ const projects = [
       "Updated Soon",
     tags: [
       {
-        name: "nextjs",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "express",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: food,
+    source_code_link: "https://github.com/DeveshModi1/",
   },
 ];
 

@@ -5,6 +5,8 @@ import mobile from "./mobile.png";
 import logoD from "./logo.png"
 import web from "./web.png";
 import github from "./github.png";
+import food from "./food.png";
+
 import menu from "./menu.svg";
 import close from "./close.svg";
 import certificate from "./certificate.jpeg";
@@ -50,6 +52,7 @@ export {
   express,
   postman,
   backend,
+  food,
   creator,
   mobile,
   web,
